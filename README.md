@@ -22,14 +22,15 @@
 <a href="https://instagram.com/emre_onaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emre_onaal" height="30" width="40" /></a>
 </p>
 
+<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,cs,dart,dotnet,firebase,flutter,git" />
     <img src="https://skillicons.dev/icons?i=java,js,mysql,py,selenium,ts,vscode,visualstudio,github" /><br>
 </div>
-
 <br/>
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberobo&show_icons=true&locale=en&layout=compact" alt="cyberobo" /></p>
 
